@@ -1,1 +1,5 @@
-# aula_38_-_HTML
+# Colaboradores
+
+- Caroliny Cagnoni  
+- Matheus Teixeira  
+- Salomão Kim
